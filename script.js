@@ -13,9 +13,6 @@ async function getname() {
     console.log(personInfo);
 
     const header = document.querySelector('header');
-    header.innerHTML = `<h1>${personInfo.data.name}</h1>
-    <h2>${personInfo.data.nickname}</h2>`;
-
-
+  header.insertAdjacentHTML("beforeend",`<h1>${personInfo.data.name}</h1>`);
 }
 
