@@ -35,3 +35,6 @@ dat een animation toevoegen lang kan duren en dat een duidelijk plan voor wat je
 
 ## check out eind week 1
 (nog in te vullen)
+
+### wat heb ik gedaan deze week?
+deze week ben ik begonnen met het maken van een website die het best laat zien wie ik ben. de eerste 3 dagen wist ik de heletijd toch niet zeker wat ik wilde gaan doen dit heeft tot vrijdag 12:30 geduurt voordat ik wist wat ik wilde gaan maken. wat ik nu ga maken is een rugby veld waar aan de hand van keyframes het lijkt alsof er een rugby wedstrijd word gespee;d
