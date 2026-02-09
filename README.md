@@ -42,3 +42,17 @@ dat een animation toevoegen lang kan duren en dat een duidelijk plan voor wat je
 
 ### wat heb ik gedaan deze week?
 deze week ben ik begonnen met het maken van een website die het best laat zien wie ik ben. de eerste 3 dagen wist ik de heletijd toch niet zeker wat ik wilde gaan doen dit heeft tot vrijdag 12:30 geduurt voordat ik wist wat ik wilde gaan maken. wat ik nu ga maken is een rugby veld waar aan de hand van keyframes het lijkt alsof er een rugby wedstrijd word gespeeld
+
+## dag 4 09/02/2026
+### wat heb ik gedaan en hoeland duurde het?
+animaties gemaakt dit heeft een heledag geduurt daarnaast ook de website responsive gemaakt.
+
+### wat heb ik geleerd
+hoe je met keyframes hele preciese animaties kan maken.
+
+### wat ga ik morgen doen
+morgen eerst typografie van vasilis daarna tegenstander animeren en extra informatie toevoegen en mijn api weer werkend krijgen.
+
+
+## check out eind week 2
+nog in te vullen
