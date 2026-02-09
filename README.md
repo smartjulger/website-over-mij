@@ -1,6 +1,10 @@
 # website-over-mij
 
 
+## leerdoelen
+1. Ik wil beter worden in eerst een concept maken voor een website. Dit wil ik gaan doen omdat ik vaak meteen begin met code en het dan vaak een beetje free styled waardoor de website vaak met minder qualitijd worden opgeleverd
+2. Ik wil leren hoe je aan de hand van keyframes animaties kan maken+ scroll animaties. Dit wil ik leren omdat mijn websites dan naar een next level worden gebracht en niet meer zo statisch over komen.
+3. Ik wil leren hoe ik
 ## Eerste check out (03/02/2026)
 Vaandaag 1e schetsen gemaakt voor mijn website. Dit heeft mee ongeveer 1 uur gekost omdat die ideeén nog niet makkelijk kwamen. Nu wil ik een star wars tekst gaan maken die helemaal responsive is.
 
@@ -35,3 +39,19 @@ dat een animation toevoegen lang kan duren en dat een duidelijk plan voor wat je
 
 ## check out eind week 1
 (nog in te vullen)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 1e experiment
