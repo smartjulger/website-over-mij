@@ -16,3 +16,26 @@ async function getname() {
   header.insertAdjacentHTML("beforeend",`<h1>${personInfo.data.name}</h1>`);
 }
 
+
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    const toggleButton = document.getElementById('animationToggle');
+    const players = document.querySelectorAll('.veld-player, .veld-red, .ball');
+    let isPaused = false;
+
+    toggleButton.addEventListener('click', function() {
+        isPaused = !isPaused;
+        
+        players.forEach(player => {
+            if (isPaused) {
+                player.style.animationPlayState = 'paused';
+            } else {
+                player.style.animationPlayState = 'running';
+            }
+        });
+        
+        toggleButton.textContent = isPaused ? 'Start' : 'Pauzeer';
+    });
+});
