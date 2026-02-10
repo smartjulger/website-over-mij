@@ -53,6 +53,17 @@ hoe je met keyframes hele preciese animaties kan maken.
 ### wat ga ik morgen doen
 morgen eerst typografie van vasilis daarna tegenstander animeren en extra informatie toevoegen en mijn api weer werkend krijgen.
 
+## 10/02/2026
+
+### wat heb ik gedaan en hoeland duurde het?
+api data toevoegen en curses met cyd gedaan over flexbox en grid
+
+### wat heb ik geleerd
+dat een animatie heel veel priegel werk kan zijn met keyframes zeker als gedetailed wil werken
+
+### wat ga ik morgen doen
+api data neer zetten op de page en een light dark mode doen en als laatst responsivenes
+
 
 ## check out eind week 2
 nog in te vullen
