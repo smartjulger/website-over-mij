@@ -80,7 +80,7 @@ Comments mis ik bij javascript
 hoe je met api math random kan doen dit duurde 4 uur en nog verder met de animatie afmaken
  
 ### wat heb ik geleerd
-hoe je met math random namen uit een api kan halen. Dat een duidelijk volgorde binnen je css handig is want ik had code dat niet meer gebruikt werd maar nog wel in de code staat
+hoe je met math random namen uit een api kan halen. Dat een duidelijk volgorde binnen je css handig is want ik had code dat niet meer gebruikt werd maar nog wel in de code staat dat vaker je code pushen naar github met een goede git commit msg heel handig is
 
 ### wat ga ik morgen doen
 presentatie houden en eindreflectie schrijven

@@ -32,7 +32,7 @@ function toonPersoon() {
     <section>
       <h2>${minorMens.name}</h2>
       <p>${minorMens.fav_game}</p>
-      <button onclick="randomPersoon()">Random persoon</button>
+      <button onclick="randomPersoon()">meet the team</button>
     </section>
   `;
   lijst.innerHTML = minorMensHTML;
