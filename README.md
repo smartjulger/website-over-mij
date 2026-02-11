@@ -65,5 +65,15 @@ dat een animatie heel veel priegel werk kan zijn met keyframes zeker als gedetai
 api data neer zetten op de page en een light dark mode doen en als laatst responsivenes
 
 
+## 11/02/2026
+
+### conventions
+
+ik heb verschillende classes met een mix van Nederlands en Engels
+
+Mijn css volgt de html structuur alleen zou wat netter kunnen geschreven worden en gebruik aan het eind van alle css een semi column
+
+Comments mis ik bij javascript
+
 ## check out eind week 2
 nog in te vullen
