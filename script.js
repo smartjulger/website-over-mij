@@ -19,7 +19,7 @@ async function haalMinorMensenop() {
   let responseJSON = await response.json();
   alleMensen = responseJSON.data;
   
-//  gemaakt met behulp van mats
+//  gemaakt met behulp van mats //
   huidigeIndex = alleMensen.findIndex(persoon => persoon.id === 299);
   if (huidigeIndex === -1) huidigeIndex = 0;
   
