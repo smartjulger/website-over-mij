@@ -75,5 +75,15 @@ Mijn css volgt de html structuur alleen zou wat netter kunnen geschreven worden 
 
 Comments mis ik bij javascript
 
+
+ ### wat heb ik gedaan en hoeland duurde het?
+hoe je met api math random kan doen dit duurde 4 uur en nog verder met de animatie afmaken
+ 
+### wat heb ik geleerd
+hoe je met math random namen uit een api kan halen. Dat een duidelijk volgorde binnen je css handig is want ik had code dat niet meer gebruikt werd maar nog wel in de code staat
+
+### wat ga ik morgen doen
+presentatie houden en eindreflectie schrijven
+
 ## check out eind week 2
 nog in te vullen
