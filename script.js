@@ -10,7 +10,6 @@ let lijst = document.querySelector("section");
 let alleMensen = [];
 let huidigeIndex = 0;
 
-
 const defaultImage = "img/defaultimg.png";
 
 haalMinorMensenop();
@@ -32,14 +31,28 @@ function toonPersoon() {
   
   let avatarSrc = minorMens.avatar ? minorMens.avatar : defaultImage;
   
-  let minorMensHTML = `
-      <h2>${minorMens.name}</h2>
-      <img src="${avatarSrc}" 
-           onerror="this.onerror=null; this.src='${defaultImage}';" 
-           alt="${minorMens.name}">
-      <p>${minorMens.fav_game}</p>     
-      <button onclick="randomPersoon()">meet the team</button>
-  `;
+  let minorMensHTML;
+  
+  if (minorMens.fav_game) {
+    minorMensHTML = `
+        <h2>${minorMens.name}</h2>
+        <img src="${avatarSrc}" 
+            onerror="this.onerror=null; this.src='${defaultImage}';" 
+            alt="${minorMens.name}">
+        <p>${minorMens.fav_game}</p>     
+        <button onclick="randomPersoon()">meet the team</button>
+    `;
+  } else {
+    minorMensHTML = `
+        <h2>${minorMens.name}</h2>
+        <img src="${avatarSrc}" 
+            onerror="this.onerror=null; this.src='${defaultImage}';" 
+            alt="${minorMens.name}">
+        <p>geen game toegevoegd🎮</p>     
+        <button onclick="randomPersoon()">meet the team</button>
+    `;
+  }
+  
   lijst.innerHTML = minorMensHTML;
 }
 
