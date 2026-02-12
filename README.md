@@ -96,8 +96,11 @@ hoe je met math random namen uit een api kan halen. Dat een duidelijk volgorde b
 presentatie houden en eindreflectie schrijven
 
 ## check out eind week 2
-nog in te vullen
+Deze week heb ik goede stappen gemaakt met het maken van mijn website ik ben bezig geweest met animaties toevoegen aan spelers Het animeren van spelers was heel veel priegel werk dit komt omdat ik iedere speler wilde kunnen bewegen. Om iedere speler te laten bewegen heb ik gebruik gemaakt van keyframes 
 
+Daarna ben ik data vanuit de api in een section gaan zetten en heb ik daar een player card van gemaakt binnen de player card heb ik een foto en hun favorieten game als iemand dat niet had opgegeven dan kregen de een emoji erbij en tekst dat ze dit nog niet hadden gedaan
+
+Daarna heb ik met css een carousel gemaakt waarin mijn leerdoelen staan het idee was om het op een sport programma te laten lijken 
 
 
 ## bronnen

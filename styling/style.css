@@ -45,8 +45,8 @@ body {
     gap: 1rem;
 }
 .carouselimg img {
-    width: 8rem;
-    height: 8rem;
+    width: 4rem;
+    height: 4rem;
     object-fit: contain;
 }
 
@@ -55,7 +55,7 @@ body {
     font-weight: bold;
     color: #333;
     text-align: center;
-   color: light-dark(#ffffff, #E2E8F0);
+    color: light-dark(#ffffff, #E2E8F0);
 }
 
 @keyframes scroll {
@@ -93,7 +93,15 @@ section img {
 }
 
 /* informatie gehaald van https://bobdewebbouwer.com/gradient-verloopkleur-met-css/ 
+https://www.youtube.com/watch?v=NSJM5Micfp0
+https://css-tricks.com/a-complete-guide-to-css-gradients/
 en met een vriend verder uitleg gekregen hoe ik vertical lijnen kan maken*/
+
+/* - Verticale lijnen op 15%, 50% (middellijn) en 85%
+- Lijndikte = 0.3% van de breedte
+- Horizontale lijnen boven en onder (0.5% hoogte)
+- Transparante delen laten de veldkleur (var(--bg)) zien
+*/ 
 .rugby-veld {
     width: 100vw;
     height: 100%;
