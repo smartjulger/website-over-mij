@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* https://codepen.io/shooft/pen/gbMjMGK code pen informatie gebruikt voor mijn light-dark*/
 :root {
 	color-scheme:light dark;
 	--bg: light-dark(#52a03e, #004d00);
@@ -443,5 +443,6 @@ MEDIA QUERIES
     }
 
 }
+
 
 
