@@ -92,7 +92,8 @@ section img {
     overflow-y: hidden; 
 }
 
-/* informatie gehaald van https://bobdewebbouwer.com/gradient-verloopkleur-met-css/ */
+/* informatie gehaald van https://bobdewebbouwer.com/gradient-verloopkleur-met-css/ 
+en met een vriend verder uitleg gekregen hoe ik vertical lijnen kan maken*/
 .rugby-veld {
     width: 100vw;
     height: 100%;
@@ -429,4 +430,5 @@ MEDIA QUERIES
     .carouselimg span {
         font-size: 1rem;
     }
+
 }
