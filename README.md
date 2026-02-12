@@ -4,7 +4,7 @@
 ## leerdoelen
 1. Ik wil beter worden in eerst een concept maken voor een website. Dit wil ik gaan doen omdat ik vaak meteen begin met code en het dan vaak een beetje free styled waardoor de website vaak met minder qualitijd worden opgeleverd
 2. Ik wil leren hoe je aan de hand van keyframes animaties kan maken+ scroll animaties. Dit wil ik leren omdat mijn websites dan naar een next level worden gebracht en niet meer zo statisch over komen.
-3. Ik wil leren hoe ik
+3. Ik wil leren hoe ik mijn ideeën binnen een team kan laten merken ik knik vaak ja ookal heb ik misschien wel een goed idee
 ## Eerste check out (03/02/2026)
 Vaandaag 1e schetsen gemaakt voor mijn website. Dit heeft mee ongeveer 1 uur gekost omdat die ideeén nog niet makkelijk kwamen. Nu wil ik een star wars tekst gaan maken die helemaal responsive is.
 
@@ -41,7 +41,17 @@ dat een animation toevoegen lang kan duren en dat een duidelijk plan voor wat je
 (nog in te vullen)
 
 ### wat heb ik gedaan deze week?
-deze week ben ik begonnen met het maken van een website die het best laat zien wie ik ben. de eerste 3 dagen wist ik de heletijd toch niet zeker wat ik wilde gaan doen dit heeft tot vrijdag 12:30 geduurt voordat ik wist wat ik wilde gaan maken. wat ik nu ga maken is een rugby veld waar aan de hand van keyframes het lijkt alsof er een rugby wedstrijd word gespeeld
+de 1e 3 dagen ben ik veel aan het proberen geweest omdat ik nog geen goed plan had van wat ik wilde dit zorgde ervoor dat ik om vrijdag  12:30  opnieuw ben begonnen daaruit kwam het idee om een rugby veld te maken waarin je eerst doorheen zou kunnen scrollen en er dan scroll animations naar boven zouden komen hiervoor heb ik niet gekozen want dit leek teveel op dat van mats dus ben ik een top down rugby wedstrijd gaan maken. voor het animeren wilde ik keyframes gaan gebruiken om zo iedere speler te kunnen bewegen.
+
+concept wat ik had voordat ik opnieuw begon
+<img width="1573" height="980" alt="image" src="https://github.com/user-attachments/assets/6cbe0774-db08-4111-8d08-8f4d18ab8a84" />
+
+
+1e concept voor het rugby veld 
+<img width="2529" height="1289" alt="image" src="https://github.com/user-attachments/assets/def565ce-6d68-4857-b382-25776021c928" />
+
+bij het nieuwe concept is het de bedoeling dat je ook op de spelers kan klikken en dat er dan data te zien is vanuit de api zoals een naam.
+
 
 ## dag 4 09/02/2026
 ### wat heb ik gedaan en hoeland duurde het?
@@ -99,3 +109,4 @@ https://css-tricks.com/a-complete-guide-to-css-gradients/
 
 default image
 https://www.vectorstock.com/royalty-free-vector/rugby-league-football-game-isolated-character-run-vector-27393001
+
