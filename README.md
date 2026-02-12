@@ -43,7 +43,7 @@ dat een animation toevoegen lang kan duren en dat een duidelijk plan voor wat je
 ### wat heb ik gedaan deze week?
 de 1e 3 dagen ben ik veel aan het proberen geweest omdat ik nog geen goed plan had van wat ik wilde dit zorgde ervoor dat ik om vrijdag  12:30  opnieuw ben begonnen daaruit kwam het idee om een rugby veld te maken waarin je eerst doorheen zou kunnen scrollen en er dan scroll animations naar boven zouden komen hiervoor heb ik niet gekozen want dit leek teveel op dat van mats dus ben ik een top down rugby wedstrijd gaan maken. voor het animeren wilde ik keyframes gaan gebruiken om zo iedere speler te kunnen bewegen.
 
-concept wat ik had voordat ik opnieuw begon
+concept wat ik had voordat ik opnieuw begon de bedoeling was om mijn leerdoelen met een horizontal scroll te laten zien alleen dit wilde voor mij niet werken en pasde niet bij wie ik ben
 <img width="1573" height="980" alt="image" src="https://github.com/user-attachments/assets/6cbe0774-db08-4111-8d08-8f4d18ab8a84" />
 
 
@@ -124,3 +124,7 @@ https://codepen.io/studiojvla/pen/qVbQqW
 
 voor de afbeeldingen css plannen en teamwork
 https://chatgpt.com/share/698d8767-a9a8-800b-9181-a32abe92e751
+
+gebruikt voor de carousel zodat de flexbox niet mee schaalt
+https://www.youtube.com/watch?v=ZOK-DU7vT0A
+
