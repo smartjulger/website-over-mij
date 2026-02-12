@@ -90,7 +90,8 @@ Comments mis ik bij javascript
 hoe je met api math random kan doen dit duurde 4 uur en nog verder met de animatie afmaken
  
 ### wat heb ik geleerd
-hoe je met math random namen uit een api kan halen. Dat een duidelijk volgorde binnen je css handig is want ik had code dat niet meer gebruikt werd maar nog wel in de code staat dat vaker je code pushen naar github met een goede git commit msg heel handig is
+hoe je met math random namen uit een api kan halen. Dat een duidelijk volgorde binnen je css handig is want ik had code dat niet meer gebruikt werd maar nog wel in de code staat dat vaker je code pushen naar github met een goede git commit msg heel handig is hoe je een css only carousel kan maken en hoe je extra informatie uit een api kan halen dat niet alleen je naam is
+
 
 ### wat ga ik morgen doen
 presentatie houden en eindreflectie schrijven
@@ -100,9 +101,19 @@ Deze week heb ik goede stappen gemaakt met het maken van mijn website ik ben bez
 Dit gaf me de controle om ze individuel te bewegen alleen ik heb het gevoel dat het veel makkelijker en sneller kan want nu duurde het heel lang
 
 
-Daarna ben ik data vanuit de api in een section gaan zetten en heb ik daar een player card van gemaakt binnen de player card heb ik een foto en hun favorieten game als iemand dat niet had opgegeven dan kregen de een emoji erbij en tekst dat ze dit nog niet hadden gedaan
+Daarna ben ik data vanuit de api in een section gaan zetten en heb ik daar een player card van gemaakt binnen de player card heb ik een foto en hun favorieten game als iemand dat niet had opgegeven dan kregen de een emoji erbij en tekst dat ze dit nog niet hadden gedaan dit heb ik gedaan met een if else statement
 
 Daarna heb ik met css een carousel gemaakt waarin mijn leerdoelen staan het idee was om het op een sport programma te laten lijken de leerdoelen heb ik laten zien met afbeeldingen de afbeeldingen heb ik van chatgpt <a>https://chatgpt.com/share/698d8767-a9a8-800b-9181-a32abe92e751</a> met de promts kan je een image maken dat te maken heeft met css daarna gevraagd of hij er 1 kan maken voor het plannen en als laatst voor het samenwerken
+
+dit heb ik toen binnen een carousel gezet die aan de bovenkant blijft lopen 
+<img width="1517" height="74" alt="image" src="https://github.com/user-attachments/assets/79781cf8-4488-4e0e-91f3-b332a9a3533d" />
+
+dan light dark mode die automatisch door de browser word gekozen
+<img width="528" height="118" alt="image" src="https://github.com/user-attachments/assets/ae13a49e-c592-4050-a44a-7d2d96acabb8" />
+
+
+
+
 
 
 ## bronnen
@@ -123,8 +134,19 @@ https://www.vectorstock.com/royalty-free-vector/rugby-league-football-game-isola
 https://codepen.io/studiojvla/pen/qVbQqW
 
 voor de afbeeldingen css plannen en teamwork
+
 https://chatgpt.com/share/698d8767-a9a8-800b-9181-a32abe92e751
 
 gebruikt voor de carousel zodat de flexbox niet mee schaalt
+
 https://www.youtube.com/watch?v=ZOK-DU7vT0A
+
+https://www.youtube.com/watch?v=wsTv9y931o8&list=PL1ufoxq8xtmkVc2QDT9qcKoRgyT-Dt5Sa
+
+leren van animaties
+
+https://www.youtube.com/watch?v=z2LQYsZhsFw&t=243s
+
+https://www.youtube.com/watch?v=Bhj4miRkSOc
+
 
