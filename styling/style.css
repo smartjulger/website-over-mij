@@ -170,6 +170,7 @@ en met een vriend verder uitleg gekregen hoe ik vertical lijnen kan maken*/
 /* ========================================
 blauw spelers
    ======================================== */
+   /* https://www.youtube.com/watch?v=z2LQYsZhsFw&t=243s */
 .veld-container > .veld-player:nth-child(2) {
     left: 30vw; top: 10vh;
     animation: blauw1 8s ease-in-out forwards;
