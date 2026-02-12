@@ -109,4 +109,3 @@ https://css-tricks.com/a-complete-guide-to-css-gradients/
 
 default image
 https://www.vectorstock.com/royalty-free-vector/rugby-league-football-game-isolated-character-run-vector-27393001
-
