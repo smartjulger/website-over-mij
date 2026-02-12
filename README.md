@@ -96,11 +96,13 @@ hoe je met math random namen uit een api kan halen. Dat een duidelijk volgorde b
 presentatie houden en eindreflectie schrijven
 
 ## check out eind week 2
-Deze week heb ik goede stappen gemaakt met het maken van mijn website ik ben bezig geweest met animaties toevoegen aan spelers Het animeren van spelers was heel veel priegel werk dit komt omdat ik iedere speler wilde kunnen bewegen. Om iedere speler te laten bewegen heb ik gebruik gemaakt van keyframes 
+Deze week heb ik goede stappen gemaakt met het maken van mijn website ik ben bezig geweest met animaties toevoegen aan spelers Het animeren van spelers was heel veel priegel werk dit komt omdat ik iedere speler wilde kunnen bewegen. Om iedere speler te laten bewegen heb ik gebruik gemaakt van keyframes. <img width="485" height="199" alt="image" src="https://github.com/user-attachments/assets/2fc598b8-8496-4af6-b707-e3b2a5eb6f8d" />
+Dit gaf me de controle om ze individuel te bewegen alleen ik heb het gevoel dat het veel makkelijker en sneller kan want nu duurde het heel lang
+
 
 Daarna ben ik data vanuit de api in een section gaan zetten en heb ik daar een player card van gemaakt binnen de player card heb ik een foto en hun favorieten game als iemand dat niet had opgegeven dan kregen de een emoji erbij en tekst dat ze dit nog niet hadden gedaan
 
-Daarna heb ik met css een carousel gemaakt waarin mijn leerdoelen staan het idee was om het op een sport programma te laten lijken 
+Daarna heb ik met css een carousel gemaakt waarin mijn leerdoelen staan het idee was om het op een sport programma te laten lijken de leerdoelen heb ik laten zien met afbeeldingen de afbeeldingen heb ik van chatgpt <a>https://chatgpt.com/share/698d8767-a9a8-800b-9181-a32abe92e751</a> met de promts kan je een image maken dat te maken heeft met css daarna gevraagd of hij er 1 kan maken voor het plannen en als laatst voor het samenwerken
 
 
 ## bronnen
@@ -120,4 +122,5 @@ https://www.vectorstock.com/royalty-free-vector/rugby-league-football-game-isola
 
 https://codepen.io/studiojvla/pen/qVbQqW
 
-
+voor de afbeeldingen css plannen en teamwork
+https://chatgpt.com/share/698d8767-a9a8-800b-9181-a32abe92e751
