@@ -92,7 +92,10 @@ nog in te vullen
 
 ## bronnen
 
-
+linier lijnen
 https://www.youtube.com/watch?v=NSJM5Micfp0
 https://bobdewebbouwer.com/gradient-verloopkleur-met-css/
 https://css-tricks.com/a-complete-guide-to-css-gradients/
+
+default image
+https://www.vectorstock.com/royalty-free-vector/rugby-league-football-game-isolated-character-run-vector-27393001
