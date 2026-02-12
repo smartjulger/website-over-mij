@@ -87,3 +87,12 @@ presentatie houden en eindreflectie schrijven
 
 ## check out eind week 2
 nog in te vullen
+
+
+
+## bronnen
+
+
+https://www.youtube.com/watch?v=NSJM5Micfp0
+https://bobdewebbouwer.com/gradient-verloopkleur-met-css/
+https://css-tricks.com/a-complete-guide-to-css-gradients/
