@@ -27,34 +27,35 @@ async function haalMinorMensenop() {
 }
 
 function toonPersoon() {
-  let minorMens = alleMensen[huidigeIndex];
+  let persoon = alleMensen[huidigeIndex];
   
-  let avatarSrc = minorMens.avatar ? minorMens.avatar : defaultImage;
+  let avatarSrc = persoon.avatar ? persoon.avatar : defaultImage;
   
-  let minorMensHTML;
+  let persoonHTML;
   
-  if (minorMens.fav_game) {
-    minorMensHTML = `
-        <h2>${minorMens.name}</h2>
+  if (persoon.fav_game) {
+    persoonHTML = `
+        <h2>${persoon.name}</h2>
         <img src="${avatarSrc}" 
             onerror="this.onerror=null; this.src='${defaultImage}';" 
-            alt="${minorMens.name}">
-        <p>${minorMens.fav_game}</p>     
+            alt="${persoon.name}">
+        <p>${persoon.fav_game}</p>     
         <button onclick="randomPersoon()">meet the team</button>
     `;
   } else {
-    minorMensHTML = `
-        <h2>${minorMens.name}</h2>
+    persoonHTML = `
+        <h2>${persoon.name}</h2>
         <img src="${avatarSrc}" 
             onerror="this.onerror=null; this.src='${defaultImage}';" 
-            alt="${minorMens.name}">
+            alt="${persoon.name}">
         <p>geen game toegevoegd🎮</p>     
         <button onclick="randomPersoon()">meet the team</button>
     `;
   }
   
-  lijst.innerHTML = minorMensHTML;
+  lijst.innerHTML = persoonHTML;
 }
+
 
 function randomPersoon() {
   huidigeIndex = Math.floor(Math.random() * alleMensen.length);
