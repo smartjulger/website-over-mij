@@ -150,3 +150,8 @@ https://www.youtube.com/watch?v=z2LQYsZhsFw&t=243s
 https://www.youtube.com/watch?v=Bhj4miRkSOc
 
 
+Light-darkmode codepen van sanne
+https://codepen.io/shooft/pen/gbMjMGK
+
+
+
