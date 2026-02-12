@@ -35,6 +35,8 @@ body {
     min-width: 100%;
     animation: scroll 15s linear infinite;
 }
+/* https://www.youtube.com/watch?v=ZOK-DU7vT0A 
+gebruikt voor de flex: 0 0 auto;*/ 
 
 .carouselimg {
     flex: 0 0 auto;
@@ -440,4 +442,5 @@ MEDIA QUERIES
     }
 
 }
+
 
